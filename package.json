@@ -1,0 +1,26 @@
+{
+  "name": "828987-barbershop-24",
+  "version": "1.0.0",
+  "description": "* Студент: [Виктор Банарюк](https://up.htmlacademy.ru/htmlcss/24/user/828987).",
+  "main": "index.js",
+  "dependencies": {
+    "normalize.css": "^8.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/banvic/828987-barbershop-24.git"
+  },
+  "keywords": [
+    "barbershop"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/banvic/828987-barbershop-24/issues"
+  },
+  "homepage": "https://github.com/banvic/828987-barbershop-24#readme"
+}

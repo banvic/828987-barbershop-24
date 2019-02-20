@@ -1068,7 +1068,7 @@ input[type="radio"].visually-hidden {
 .modal-login {
   top: 120px;
   left: 50%;
-  display: none;
+
   width: 300px;
   margin-left: -230px;
   padding: 50px 80px;
@@ -1147,13 +1147,13 @@ input[type="radio"].visually-hidden {
 }
 
 .login-icon-user {
-  background-image: url("img/user.svg");
+  background-image: url("../img/user.svg");
   background-position: 270px center;
   background-repeat: no-repeat;
 }
 
 .login-icon-password {
-  background-image: url("img/lock.svg");
+  background-image: url("../img/lock.svg");
   background-position: 270px center;
   background-repeat: no-repeat;
 }
